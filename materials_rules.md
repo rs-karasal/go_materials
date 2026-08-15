@@ -169,7 +169,7 @@ go_materials/
 | № | Тема | Статус |
 |---|------|--------|
 | 13 | [Ошибки как значения: `error`, `errors.Is` и `errors.As`](04-oshibki/13-oshibki-kak-znacheniya.md) | ✅ |
-| 14 | `panic`, `recover` и когда они уместны | ⬜ |
+| 14 | [`panic`, `recover` и когда они уместны](04-oshibki/14-panic-i-recover.md) | ✅ |
 
 ### Часть 5. Пакеты и дженерики — `05-pakety-i-dzheneriki/`
 | № | Тема | Статус |
