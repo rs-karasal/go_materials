@@ -316,7 +316,7 @@ go_materials/
 | 07 | [Рантайм: планировщик, память, GC](sobesedovanie/01-voprosy/07-runtime-planirovshchik-gc.md) | ✅ |
 | 08 | [Тестирование и инструменты](sobesedovanie/01-voprosy/08-testirovanie-i-instrumenty.md) | ✅ |
 | 09 | [HTTP и стандартная библиотека](sobesedovanie/01-voprosy/09-http-i-stdlib.md) | ✅ |
-| 10 | Базы данных и производительность | ⬜ |
+| 10 | [Базы данных и производительность](sobesedovanie/01-voprosy/10-bazy-dannyh-i-proizvoditelnost.md) | ✅ |
 
 **Вопросы-ловушки — `sobesedovanie/02-kaverznye/`**
 
