@@ -324,7 +324,7 @@ go_materials/
 |---|------|--------|
 | 11 | [Ловушки: слайсы, карты, `defer`](sobesedovanie/02-kaverznye/11-lovushki-slaysy-karty-defer.md) | ✅ |
 | 12 | [Ловушки: интерфейсы, методы, замыкания](sobesedovanie/02-kaverznye/12-lovushki-interfeysy-metody-zamykaniya.md) | ✅ |
-| 13 | Ловушки: конкурентность | ⬜ |
+| 13 | [Ловушки: конкурентность](sobesedovanie/02-kaverznye/13-lovushki-konkurentnost.md) | ✅ |
 
 **Задачи на live-coding — `sobesedovanie/03-zadachi/`**
 
