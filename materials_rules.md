@@ -196,7 +196,7 @@ go_materials/
 ### Часть 8. Стандартная библиотека — `08-standartnaya-biblioteka/`
 | № | Тема | Статус |
 |---|------|--------|
-| 25 | `encoding/json` и работа с файлами | ⬜ |
+| 25 | [`encoding/json` и работа с файлами](08-standartnaya-biblioteka/25-json-i-fayly.md) | ✅ |
 | 26 | `net/http`: клиент | ⬜ |
 | 27 | `net/http`: сервер и маршрутизация | ⬜ |
 
