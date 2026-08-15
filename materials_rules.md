@@ -184,7 +184,7 @@ go_materials/
 | 18 | [Каналы](06-konkurentnost/18-kanaly.md) | ✅ |
 | 19 | [`select`, таймауты и типичные ошибки](06-konkurentnost/19-select-i-taymauty.md) | ✅ |
 | 20 | [`sync`: `Mutex`, `WaitGroup`, `atomic` и детектор гонок](06-konkurentnost/20-sync-i-detektor-gonok.md) | ✅ |
-| 21 | `context`: отмена и дедлайны | ⬜ |
+| 21 | [`context`: отмена и дедлайны](06-konkurentnost/21-context.md) | ✅ |
 
 ### Часть 7. Качество — `07-kachestvo/`
 | № | Тема | Статус |
