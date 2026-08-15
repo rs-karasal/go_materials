@@ -146,7 +146,7 @@ go_materials/
 |---|------|--------|
 | 01 | [Go: зачем он нужен, установка и первая программа](01-osnovy/01-ustanovka-i-pervaya-programma.md) | ✅ |
 | 02 | [Модули и инструменты: `go mod`, `go build`, `gofmt`, `go vet`](01-osnovy/02-moduli-i-instrumenty.md) | ✅ |
-| 03 | Переменные, константы, `iota` и базовые типы | ⬜ |
+| 03 | [Переменные, константы, `iota` и базовые типы](01-osnovy/03-peremennye-konstanty-i-tipy.md) | ✅ |
 | 04 | Управление потоком: `if`, `for`, `switch` | ⬜ |
 | 05 | Функции: несколько возвращаемых значений, замыкания, `defer` | ⬜ |
 
