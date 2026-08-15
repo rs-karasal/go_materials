@@ -191,7 +191,7 @@ go_materials/
 |---|------|--------|
 | 22 | [Тесты: `go test` и табличные тесты](07-kachestvo/22-testy-i-tablichnye-testy.md) | ✅ |
 | 23 | [Бенчмарки, покрытие и профилирование](07-kachestvo/23-benchmarki-i-profilirovanie.md) | ✅ |
-| 24 | Документация, линтеры и стиль Go | ⬜ |
+| 24 | [Документация, линтеры и стиль Go](07-kachestvo/24-dokumentaciya-i-stil.md) | ✅ |
 
 ### Часть 8. Стандартная библиотека — `08-standartnaya-biblioteka/`
 | № | Тема | Статус |
