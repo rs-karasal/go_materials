@@ -332,7 +332,7 @@ go_materials/
 |---|------|--------|
 | 14 | [Задачи уровня junior](sobesedovanie/03-zadachi/14-zadachi-junior.md) | ✅ |
 | 15 | [Задачи уровня middle](sobesedovanie/03-zadachi/15-zadachi-middle.md) | ✅ |
-| 16 | Задачи на конкурентность | ⬜ |
+| 16 | [Задачи на конкурентность](sobesedovanie/03-zadachi/16-zadachi-konkurentnost.md) | ✅ |
 
 **Системный дизайн — `sobesedovanie/04-sistemnyy-dizayn/`**
 
