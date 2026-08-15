@@ -338,7 +338,7 @@ go_materials/
 
 | № | Тема | Статус |
 |---|------|--------|
-| 17 | Проектирование сервиса на Go | ⬜ |
+| 17 | [Проектирование сервиса на Go](sobesedovanie/04-sistemnyy-dizayn/17-proektirovanie-servisa.md) | ✅ |
 | 18 | Распределённые системы и компромиссы | ⬜ |
 
 **Сценарии мок-интервью — `sobesedovanie/05-mok-interview/`**
