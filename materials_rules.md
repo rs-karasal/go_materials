@@ -155,7 +155,7 @@ go_materials/
 |---|------|--------|
 | 06 | [Массивы и слайсы: устройство, `len`, `cap`, `append`](02-sostavnye-tipy/06-massivy-i-slaysy.md) | ✅ |
 | 07 | [Карты (`map`)](02-sostavnye-tipy/07-karty.md) | ✅ |
-| 08 | Строки, байты и руны | ⬜ |
+| 08 | [Строки, байты и руны](02-sostavnye-tipy/08-stroki-bayty-i-runy.md) | ✅ |
 
 ### Часть 3. Свои типы — `03-svoi-tipy/`
 | № | Тема | Статус |
