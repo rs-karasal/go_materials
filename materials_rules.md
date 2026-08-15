@@ -313,7 +313,7 @@ go_materials/
 | 04 | [Ошибки, `panic`, `defer`](sobesedovanie/01-voprosy/04-oshibki-panic-defer.md) | ✅ |
 | 05 | [Горутины и каналы](sobesedovanie/01-voprosy/05-gorutiny-i-kanaly.md) | ✅ |
 | 06 | [`sync`, гонки, паттерны конкурентности](sobesedovanie/01-voprosy/06-sync-gonki-patterny.md) | ✅ |
-| 07 | Рантайм: планировщик, память, GC | ⬜ |
+| 07 | [Рантайм: планировщик, память, GC](sobesedovanie/01-voprosy/07-runtime-planirovshchik-gc.md) | ✅ |
 | 08 | Тестирование и инструменты | ⬜ |
 | 09 | HTTP и стандартная библиотека | ⬜ |
 | 10 | Базы данных и производительность | ⬜ |
