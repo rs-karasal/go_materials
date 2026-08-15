@@ -163,7 +163,7 @@ go_materials/
 | 09 | [Указатели](03-svoi-tipy/09-ukazateli.md) | ✅ |
 | 10 | [Структуры и методы: получатель по значению и по указателю](03-svoi-tipy/10-struktury-i-metody.md) | ✅ |
 | 11 | [Интерфейсы и неявная реализация](03-svoi-tipy/11-interfeysy.md) | ✅ |
-| 12 | `any`, приведение типов и `type switch` | ⬜ |
+| 12 | [`any`, приведение типов и `type switch`](03-svoi-tipy/12-any-i-type-switch.md) | ✅ |
 
 ### Часть 4. Ошибки — `04-oshibki/`
 | № | Тема | Статус |
