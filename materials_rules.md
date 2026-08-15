@@ -311,7 +311,7 @@ go_materials/
 | 02 | [Слайсы, карты, строки](sobesedovanie/01-voprosy/02-slaysy-karty-stroki.md) | ✅ |
 | 03 | [Структуры, методы, интерфейсы](sobesedovanie/01-voprosy/03-struktury-metody-interfeysy.md) | ✅ |
 | 04 | [Ошибки, `panic`, `defer`](sobesedovanie/01-voprosy/04-oshibki-panic-defer.md) | ✅ |
-| 05 | Горутины и каналы | ⬜ |
+| 05 | [Горутины и каналы](sobesedovanie/01-voprosy/05-gorutiny-i-kanaly.md) | ✅ |
 | 06 | `sync`, гонки, паттерны конкурентности | ⬜ |
 | 07 | Рантайм: планировщик, память, GC | ⬜ |
 | 08 | Тестирование и инструменты | ⬜ |
