@@ -175,7 +175,7 @@ go_materials/
 | № | Тема | Статус |
 |---|------|--------|
 | 15 | [Пакеты, экспорт и организация проекта](05-pakety-i-dzheneriki/15-pakety-i-organizaciya-proekta.md) | ✅ |
-| 16 | Дженерики | ⬜ |
+| 16 | [Дженерики](05-pakety-i-dzheneriki/16-dzheneriki.md) | ✅ |
 
 ### Часть 6. Конкурентность — `06-konkurentnost/`
 | № | Тема | Статус |
