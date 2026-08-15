@@ -309,7 +309,7 @@ go_materials/
 |---|------|--------|
 | 01 | [Основы, типы, память](sobesedovanie/01-voprosy/01-osnovy-tipy-pamyat.md) | ✅ |
 | 02 | [Слайсы, карты, строки](sobesedovanie/01-voprosy/02-slaysy-karty-stroki.md) | ✅ |
-| 03 | Структуры, методы, интерфейсы | ⬜ |
+| 03 | [Структуры, методы, интерфейсы](sobesedovanie/01-voprosy/03-struktury-metody-interfeysy.md) | ✅ |
 | 04 | Ошибки, `panic`, `defer` | ⬜ |
 | 05 | Горутины и каналы | ⬜ |
 | 06 | `sync`, гонки, паттерны конкурентности | ⬜ |
