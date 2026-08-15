@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Сборки и артефакты Go
+bin/
+*.exe
+*.test
+*.out
+coverage.html
+
+# Редакторы
+.idea/
+.vscode/
+*.swp
