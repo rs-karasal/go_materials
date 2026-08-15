@@ -197,7 +197,7 @@ go_materials/
 | № | Тема | Статус |
 |---|------|--------|
 | 25 | [`encoding/json` и работа с файлами](08-standartnaya-biblioteka/25-json-i-fayly.md) | ✅ |
-| 26 | `net/http`: клиент | ⬜ |
+| 26 | [`net/http`: клиент](08-standartnaya-biblioteka/26-http-klient.md) | ✅ |
 | 27 | `net/http`: сервер и маршрутизация | ⬜ |
 
 ### Часть 9. Практика — `09-praktika/`
