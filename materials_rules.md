@@ -204,7 +204,7 @@ go_materials/
 | № | Тема | Статус |
 |---|------|--------|
 | 28 | [Работа с базой данных: `database/sql`](09-praktika/28-rabota-s-bazoy-dannyh.md) | ✅ |
-| 29 | Логирование, конфигурация и graceful shutdown | ⬜ |
+| 29 | [Логирование, конфигурация и graceful shutdown](09-praktika/29-logirovanie-konfiguraciya-shutdown.md) | ✅ |
 | 30 | Финальный проект и чек-лист Go-джуна | ⬜ |
 
 ---
