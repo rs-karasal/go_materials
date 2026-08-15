@@ -182,7 +182,7 @@ go_materials/
 |---|------|--------|
 | 17 | [Горутины и модель конкурентности](06-konkurentnost/17-gorutiny.md) | ✅ |
 | 18 | [Каналы](06-konkurentnost/18-kanaly.md) | ✅ |
-| 19 | `select`, таймауты и типичные ошибки | ⬜ |
+| 19 | [`select`, таймауты и типичные ошибки](06-konkurentnost/19-select-i-taymauty.md) | ✅ |
 | 20 | `sync`: `Mutex`, `WaitGroup`, `atomic` и детектор гонок | ⬜ |
 | 21 | `context`: отмена и дедлайны | ⬜ |
 
