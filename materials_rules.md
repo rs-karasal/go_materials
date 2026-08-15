@@ -315,7 +315,7 @@ go_materials/
 | 06 | [`sync`, гонки, паттерны конкурентности](sobesedovanie/01-voprosy/06-sync-gonki-patterny.md) | ✅ |
 | 07 | [Рантайм: планировщик, память, GC](sobesedovanie/01-voprosy/07-runtime-planirovshchik-gc.md) | ✅ |
 | 08 | [Тестирование и инструменты](sobesedovanie/01-voprosy/08-testirovanie-i-instrumenty.md) | ✅ |
-| 09 | HTTP и стандартная библиотека | ⬜ |
+| 09 | [HTTP и стандартная библиотека](sobesedovanie/01-voprosy/09-http-i-stdlib.md) | ✅ |
 | 10 | Базы данных и производительность | ⬜ |
 
 **Вопросы-ловушки — `sobesedovanie/02-kaverznye/`**
